@@ -1,0 +1,6 @@
+REEL "IL PRESIDENTE" - CASA MICHELA (versione 9 = V5 + Michela)
+
+1. Repository GitHub: il-presidente
+2. Carica nella radice: index.html, reel-presidente.mp4, musica.mp3, poster.jpg
+3. Attiva GitHub Pages (Settings > Pages > branch main / root)
+4. Mandami il link e ti preparo il codice HTML per Webador
